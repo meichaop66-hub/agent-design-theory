@@ -6,7 +6,7 @@
 
 本仓库是 Agent 设计元理论（元原则层）的开源镜像。元原则层是 Agent 设计理论的最抽象层级，定义了多 Agent 系统设计的核心原则、约束和方法论，可被各类具体的方法论仓库调用和引用。
 
-**编辑主界面**：[飞书文档](https://bcnf5n0jgtue.feishu.cn/wiki/E1UBw98D4iFDDYk5xlccHwRCnmc)（在线协作、评论、版本迭代）
+**编辑主界面**：[飞书文档](https://bcnf5n0jgtue.feishu.cn/wiki/E1UBw98D4iFDDYk5xlccHwRCnmc)（在线协作、版本迭代）
 **发布镜像**：本仓库（GitHub / Gitee 双平台同步，用于开源展示和 AI 调用）
 
 ## 📂 目录结构
@@ -36,7 +36,7 @@ agent-design-theory/
 
 - 飞书为编辑主界面，所有内容更新在飞书完成
 - 每次升版后，同步导出 Markdown 并推送到本仓库
-- 本仓库为版本快照，不接受直接 PR 修改，建议在飞书评论区反馈
+- 本仓库为版本快照，不接受直接 PR 修改；欢迎通过本仓库的 Issues 提交反馈与改进建议（GitHub / Gitee 均可）
 
 ## 📜 许可证
 
