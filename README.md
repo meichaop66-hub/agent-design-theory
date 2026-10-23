@@ -1,3 +1,6 @@
+> **本仓库为「元基（yuanji）」的历史理论沉淀（元原则层），已于 2026 年起退役，非现行真源。**
+> 现行真源/基座仓见 [github.com/meichaop66-hub/yuanji](https://github.com/meichaop66-hub/yuanji)（Git 单源 + 腾讯云 COS 镜像）。下文「Gitee 唯一真源」「飞书展示镜像」为其历史状态，勿作为现行载体制约。
+
 # Agent 设计元理论（元原则层）
 
 > 多 Agent 系统设计的元原则层方法论，为各类 Agent 协作框架提供理论基础。
