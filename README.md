@@ -1,5 +1,5 @@
 > **本仓库为「元基（yuanji）」的历史理论沉淀（元原则层），已于 2026 年起退役，非现行真源。**
-> 现行真源/基座仓见 [github.com/meichaop66-hub/yuanji](https://github.com/meichaop66-hub/yuanji)（Git 单源 + 腾讯云 COS 镜像）。下文「Gitee 唯一真源」「飞书展示镜像」为其历史状态，勿作为现行载体制约。
+> 现行真源/基座仓见 [github.com/meichaop66-hub/yuanji](https://github.com/meichaop66-hub/yuanji)（Git 单源 + 腾讯云 COS 镜像）。下文关于「Gitee 唯一真源」「飞书展示镜像」、本仓为唯一真源及本仓拥有规则冲突裁决权的表述，均为历史状态；不得作为现行真源、裁决权威或接棒依据。
 
 # Agent 设计元理论（元原则层）
 
